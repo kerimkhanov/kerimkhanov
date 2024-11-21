@@ -5,10 +5,10 @@
 ---
 
 - 🌟 **5+ years** of experience in software development
-- 💡 Currently working on distributed systems and high-load applications at **Wildberries**
+- 💡 Currently working on distributed systems at **BCC**
 - 🏆 Solving **LeetCode medium-level problems** to sharpen my algorithmic skills
 - 📖 Learning **System Design** and **DSA (Data Structures and Algorithms)**
-- 📬 How to reach me: [hasan.dev@gmail.com](mailto:hasan.dev@gmail.com)
+- 📬 How to reach me: [khassanbek.kerimkhanov@gmail.com](mailto:khassanbek.kerimkhanov@gmail.com)
 
 ---
 
@@ -21,14 +21,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Asterisk-FFA733?style=flat-square&logo=asterisk&logoColor=white" />
   <img src="https://img.shields.io/badge/S3%20(Minio)-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerimkhanov&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimkhanov&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,10 +41,10 @@
 
 ### 🎯 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/kerimkhanov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:hasan.dev@gmail.com">
+  <a href="mailto:khassanbek.kerimkhanov@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
