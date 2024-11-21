@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hasan
+# Hi there! 👋 I'm Khassanbek
 
 ### 🛠️ Software Engineer | Golang Enthusiast | System Design Learner
 
