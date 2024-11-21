@@ -26,7 +26,7 @@
 ---
 
 🌟 LeetCode Progress:
-<p align="center"> <img src="https://leetcard.jacoblin.cool/your-username?ext=heatmap&theme=dark" alt="LeetCode Stats" /> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/english2two?ext=heatmap&theme=dark" alt="LeetCode Stats" /> </p>
 
 ---
 
