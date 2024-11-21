@@ -25,6 +25,11 @@
 
 ---
 
+🌟 LeetCode Progress:
+<p align="center"> <img src="https://leetcard.jacoblin.cool/your-username?ext=heatmap&theme=dark" alt="LeetCode Stats" /> </p>
+
+---
+
 ### 🎯 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/kerimkhanov" target="_blank">
